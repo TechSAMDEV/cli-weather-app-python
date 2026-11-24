@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 7.3411,
+        "lat": 9.1527
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 309.7,
+        "feels_like": 307.3,
+        "temp_min": 309.7,
+        "temp_max": 309.7,
+        "pressure": 1009,
+        "humidity": 15,
+        "sea_level": 1009,
+        "grnd_level": 963
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.03,
+        "deg": 122,
+        "gust": 2.72
+    },
+    "clouds": {
+        "all": 4
+    },
+    "dt": 1795530705,
+    "sys": {
+        "country": "NG",
+        "sunrise": 1795498061,
+        "sunset": 1795540033
+    },
+    "timezone": 3600,
+    "id": 2352778,
+    "name": "Kubwa",
+    "cod": 200
+}

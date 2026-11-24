@@ -1,0 +1,3 @@
+City Name: kubwa
+Weather: Clear, clear sky
+Temperature: 36.55℃
